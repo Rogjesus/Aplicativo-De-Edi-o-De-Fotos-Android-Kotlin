@@ -296,11 +296,6 @@ Yes. It's an open-source library and free to use. If this library has saved your
 ## Credits
 This project is inspired from [PhotoEditorSDK](https://github.com/eventtus/photo-editor-android)
 
-## Buy a cup of coffee
-If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of ☕️
-[BuyMeACoffee](https://www.buymeacoffee.com/burhanrashid52)
-
-<a href="https://www.producthunt.com/posts/photoeditor-2?utm_source=badge-review&utm_medium=badge&utm_souce=badge-photoeditor-2#discussion-body" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=297508&theme=light" alt="PhotoEditor - Android SDK with simple, easy support for image editing. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## Lesson Learned from building successful android library PhotoEditor: Droidcon Berlin 2021
 
