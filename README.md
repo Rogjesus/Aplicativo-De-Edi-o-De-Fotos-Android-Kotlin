@@ -215,7 +215,7 @@ It will take default fonts provided in the builder. If we want different Emoji f
 
 ## Saving
 
-In [v.3.0.0](https://github.com/burhanrashid52/PhotoEditor/releases/tag/v.3.0.0) onward, we can save an image to a file using coroutines:
+
 
 ```kotlin
 // Please note that if you call this from a fragment, you should call
@@ -246,18 +246,7 @@ You can also save an image to a file from Java. We need to provide a file with c
                 });
 ```
 
-For more details see [Saving](https://github.com/burhanrashid52/PhotoEditor/wiki/Saving)
 
-## How to contribute?
-* Check out contribution guidelines 👉[CONTRIBUTING.md](https://github.com/burhanrashid52/PhotoEditor/blob/master/CONTRIBUTING.md)
-
-
-## Questions?🤔
-Hit me on twitter [![Twitter](https://img.shields.io/badge/Twitter-%40burhanrashid52-blue.svg)](https://twitter.com/burhanrashid52)
-[![Medium](https://img.shields.io/badge/Medium-%40burhanrashid52-brightgreen.svg)](https://medium.com/@burhanrashid52)
-[![Facebook](https://img.shields.io/badge/Facebook-Burhanuddin%20Rashid-blue.svg)](https://www.facebook.com/Bursid)
-
-## FAQ
 <details><summary>Can I use this library in my app for free?</summary>
 <p>
 
@@ -269,7 +258,6 @@ Yes. It's an open-source library and free to use. If this library has saved your
 <details><summary>Does it support the CROP feature?</summary>
 <p>
 
-Currently, No. I started to build in branch [PE-79](https://github.com/burhanrashid52/PhotoEditor/issues/79). But due to time constraint, I drop the idea. Any PR related to CROP is welcomed :)
 
 </p>
 </details>
@@ -277,7 +265,6 @@ Currently, No. I started to build in branch [PE-79](https://github.com/burhanras
 <details><summary>Facing issues in applying Filter?</summary>
 <p>
 
-The filter effect is applied using `GlSurfaceView` and the implementation of this feature causing a lot of issues. Need to think of some other alternative solution. Here is the issue [list](https://github.com/burhanrashid52/PhotoEditor/issues?q=is%3Aissue+is%3Aopen+filter).
 
 </p>
 </details>
@@ -285,7 +272,7 @@ The filter effect is applied using `GlSurfaceView` and the implementation of thi
 <details><summary>Does is support in other platforms (iOS, Web, Flutter)?</summary>
 <p>
 
-No. Currently, the focus is on making the android library better. We don't have any plans for [other Platform](https://github.com/burhanrashid52/PhotoEditor/issues/24).
+
 
 </p>
 </details>
@@ -293,8 +280,7 @@ No. Currently, the focus is on making the android library better. We don't have 
 <details><summary>Other Know Issues</summary>
 <p>
 
-[Image Scaling](https://github.com/burhanrashid52/PhotoEditor/issues/10).
-<br>[Memory Issue in Filter](https://github.com/burhanrashid52/PhotoEditor/issues/48).
+
 
 </p>
 </details>
@@ -325,7 +311,7 @@ If you found this project helpful or you learned something from the source code 
 
 ## MIT License
 
-Copyright (c) 2022 Burhanuddin Rashid
+Copyright (c) 2024 Rogério Silva
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
